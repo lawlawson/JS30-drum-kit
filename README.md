@@ -2,6 +2,8 @@
 
 This project is a part of the JavaScript30 challenge by Wes Bos, where participants build 30 different projects using only HTML, CSS, and vanilla JavaScript. In this particular project, we've created a drum machine where users can play various drum sounds by pressing corresponding keys on their keyboard.
 
+![drum kit screenshot](/screenshot.png)
+
 ## Table of Contents
 
 - [Demo](#demo)
